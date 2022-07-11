@@ -1,4 +1,4 @@
 # Bars-server
 Сервер для программы, которая отображает список договоров. 
 ## 
-Spring, REST
+Spring, REST, Postgresql
